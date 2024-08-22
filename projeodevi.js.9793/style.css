@@ -1,0 +1,29 @@
+.img-fluid {
+  width: 100px;
+}
+@media screen and (max-width:700px) {
+    .photo{
+        height: 600px !important;
+    } 
+}
+.photo{
+    height: 800px;
+}
+.headerButton {
+  background-image: url(https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/black/Photoroom_black_background_extremely_fine_texture_only_black_co_c756a0c0-4895-4275-845b-7a20f085e432.jpg);
+  width: 100%;
+  height: 100%;
+  }
+  ul li{
+    padding-bottom: 15px;
+  }
+  .card{
+    width: 20rem;
+    height: 30rem !important;
+  }
+  #suggestion{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+
